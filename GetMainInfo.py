@@ -1,6 +1,5 @@
 number = input("Enter the TARGET with <+>: " )
 import phonenumbers
-import number
 print(number)
 print("......................")
 
